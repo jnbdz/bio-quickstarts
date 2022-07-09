@@ -66,7 +66,7 @@ Biology (bioinformatic, biology, bio-hacking, etc) quickstarts.
 - [Biopython Project | GitHub](https://github.com/biopython)
 - [BioJava](https://github.com/biojava)
 - [Hurwitz Lab | GitHub](https://github.com/hurwitzlab)
-## People
+### People
 - [Kenneth Schackart  | GitHub](https://github.com/hurwitzlab)
 - [Ken Youens-Clark | GitHub](https://github.com/kyclark)
 ### Blogs
