@@ -12,18 +12,35 @@ Biology (bioinformatic, biology, bio-hacking, etc) quickstarts.
 
 ## Programming languages & other tech (most used)
 - Python
-- R
+- R (Rshiny)
 - Shell scripting (BASH)
+- Perl
 - Git
 - Docker (containers)
 - AWS (cloud computing in general)
 - HPC (high-performance computing environment)
 - Linux
+- Machine learning
+- Modeling
 
 ## Other knownledge
 - Statistics
 - Data analysis
 - Single cell RNAseq
+- Illumina based NGS methods and tools
+
+## Biological databases
+- TCGA
+- COSMIC
+- ENCODE
+- NCBI
+- UCSC
+- EBI
+- HMP
+- cBioPortal
+- RefSeq
+- dbSNP
+- ClinVar
 
 ## Acronyms
 - *VIST:* variation, inheritance, selection and time (evolutionary principles).
@@ -66,3 +83,9 @@ Biology (bioinformatic, biology, bio-hacking, etc) quickstarts.
     - *Valted Seq is a discovery stage biopharmaceutical company spearheaded by world-renowned scientists Dr. Ted Dawson and Dr. Valina Dawson of Johns Hopkins University. The company was founded on the belief that a deeper understanding of neurodegenerative pathways is essential to develop precision therapeutics and identify novel biomarkers for some of the most challenging neurodegenerative diseases, including Alzheimer’s and Parkinson’s. Valted Seq is part of the [D&D Pharmatech](http://www.ddpharmatech.com/)/[Neuraly](http://neuralymed.com/) family of companies, which works hand in hand with leading medical research institutions to advance groundbreaking healthcare innovations.*
     - **Blog post on Valted Seq:** https://www.businesswire.com/news/home/20200909005093/en/DD-Pharmatech-Announces-Launch-Valted-Seq-S
 - [D&D pharmatech](http://ddpharmatech.com/) - *D&D Pharmatech is a clinical-stage global biotech company that funds the development of revolutionary medicines through disease-specific subsidiary companies founded and guided by top-tier medical research faculty. This corporate structure creates a unique opportunity to accelerate translation of cutting-edge research into lifesaving therapeutic products for patients. The company’s product pipeline focuses on a range of indications including neurodegenerative and fibrotic diseases as well as application of big data in CNS drug research and diagnostics. D&D Pharmatech is the parent company of U.S.-based Neuraly, Precision Molecular, Valted Seq, Theraly Fibrosis and P4 Microbiome.*
+- [Morgridge Institute for Research](https://morgridge.org/) - *The Morgridge Institute for Research is a nonprofit biomedical institute exploring uncharted scientific territory to discover tomorrow’s cures. Morgridge works to improve human health through innovative, interdisciplinary biomedical discoveries, spark scientific curiosity and serve society through translational outcomes, in partnership with the University of Wisconsin-Madison. Research areas include regenerative biology and bioinformatics, virology, medical engineering, metabolism, core computational technology and bioethics.*
+- [Bionano Genomics | Structural Variation Detection with Optical Genome Mapping](https://bionanogenomics.com/) - *At Bionano Genomics®, we are committed to unlocking understanding of genome biology to advance the promise of genomics in areas including cancer and human disease, agricultural bioengineering and genome discovery. Our team is not afraid to venture into uncharted territory to look for answers. We welcome the curious and provide a place where those who are not satisfied with the status quo can feel at home. Our next-generation genome mapping and analysis tools help researchers see true genome structure to fill in what’s missing from sequencing-based data. Saphyr™, our high-speed, high-throughput whole genome mapping solution, offers unmatched structural variation discovery capabilities and the ability to construct the most complete genome assemblies. At Bionano, we are invested in the success of our customers and users around the world, and are dedicated to supporting them with the tools, resources and support they need to achieve their goals and make a real impact on improving quality of life for all.*
+- [Axle Informatics](https://axleinfo.com/) - *Axle Informatics is a bioscience and information technology company that offers advancements in translational research, health informatics, and data science applications to research centers and healthcare organizations around the globe. With experts in biomedical science, software engineering, and program management, we develop and apply research tools and techniques that empower decision-making and accelerate research discoveries. We work with some of the top research organizations and facilities in the country including multiple institutes at the National Institutes of Health (NIH) by offering the responsiveness of a small business coupled with the experience, breadth, and depth of a large organization.*
+- [University of Arizona](https://www.arizona.edu/) - *The University of Arizona is the leading public research university in the American Southwest. The UA produces more than $600 million in annual research and is the state's only member of the prestigious Association of American Universities. This is a diverse community of people who thrive on innovation and collaboration. Our world-class faculty create discoveries that improve the human condition and fuel the state's economy. Our research enterprise provides undergraduate students with opportunities for hands-on experiences that can be found in few universities in the world. As the state's land-grant university, our research and resources enrich communities around the state and around the world.*
+- [Codiak BioSciences](https://www.codiakbio.com/) - *Codiak is a clinical-stage biopharmaceutical company focused on pioneering the development of exosome-based therapeutics, a new class of medicines with the potential to transform the treatment of a wide spectrum of diseases with high unmet medical need. By leveraging the biology of exosomes as natural intercellular transfer mechanisms, Codiak has developed its proprietary engEx Platform to expand upon the innate properties of exosomes to design, engineer and manufacture novel exosome therapeutic candidates. Codiak has utilized its engEx Platform to generate a deep pipeline of engineered exosomes aimed at treating a broad range of disease areas, spanning oncology, neuro-oncology, neurology, neuromuscular disease and infectious disease.*
+- [ReviveMed](https://www.revivemed.io/) - *ReviveMed is an MIT spinout that created the world's most advanced AI platform and a proprietary database with the highest quality and density of metabolite data. While current methods are limited to a few hundred metabolite data points at the most, ReviveMed uses data from 10,000+ metabolites. As a result, in a fraction of the time and cost, we have discovered therapeutic assets for four diseases internally, including NASH and renal cell carcinoma, and in strategic collaboration with big pharma, with a combined therapeutic market value of >$50B. Over the next five years, ReviveMed is poised to revolutionize the drug discovery market by collecting data from 50 more diseases and creating billions in therapeutic value.*
