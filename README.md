@@ -64,7 +64,7 @@ Biology (bioinformatic, biology, bio-hacking, etc) quickstarts.
 - [SciPy](https://scipy.org/) - *Fundamental algorithms for scientific computing in Python.*
 - [NCBI - National Center for Biotechnology Information/NLM/NIH | GitHub](https://github.com/ncbi)
 - [Biopython Project | GitHub](https://github.com/biopython)
-- [BioJava](https://github.com/biojava)
+- [BioJava | GitHub](https://github.com/biojava)
 - [Hurwitz Lab | GitHub](https://github.com/hurwitzlab)
 ### People
 - [Kenneth Schackart  | GitHub](https://github.com/hurwitzlab)
