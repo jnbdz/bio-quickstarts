@@ -62,6 +62,13 @@ Biology (bioinformatic, biology, bio-hacking, etc) quickstarts.
     - [Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython | Amazon](https://www.amazon.com/gp/product/1491957662/) - Related book.
 - [Matplotlib: Visualization with Python](https://matplotlib.org/) - *Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python. Matplotlib makes easy things easy and hard things possible.*
 - [SciPy](https://scipy.org/) - *Fundamental algorithms for scientific computing in Python.*
+- [NCBI - National Center for Biotechnology Information/NLM/NIH | GitHub](https://github.com/ncbi)
+- [Biopython Project | GitHub](https://github.com/biopython)
+- [BioJava](https://github.com/biojava)
+- [Hurwitz Lab | GitHub](https://github.com/hurwitzlab)
+## People
+- [Kenneth Schackart  | GitHub](https://github.com/hurwitzlab)
+- [Ken Youens-Clark | GitHub](https://github.com/kyclark)
 ### Blogs
 - [Hacker Friendly](https://hackerfriendly.com/)
 ### Companies
