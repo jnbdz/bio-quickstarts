@@ -30,6 +30,9 @@ Biology (bioinformatic, biology, bio-hacking, etc) quickstarts.
 - Illumina based NGS methods and tools
 
 ## Biological databases
+
+> To search all 180 bio DBs: https://www.omicsdi.org/
+
 - [TCGA](https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga) - *The Cancer Genome Atlas (TCGA), a landmark [cancer genomics](https://www.cancer.gov/about-nci/organization/ccg/cancer-genomics-overview) program, molecularly characterized over 20,000 primary cancer and matched normal samples spanning 33 cancer types. This joint effort between NCI and the National Human Genome Research Institute began in 2006, bringing together researchers from diverse disciplines and multiple institutions. Over the next dozen years, TCGA generated over 2.5 petabytes of genomic, epigenomic, transcriptomic, and proteomic data. The data, which has already led to improvements in our ability to diagnose, treat, and prevent cancer, will remain [publicly available](https://portal.gdc.cancer.gov/) for anyone in the research community to use.*
 - [COSMIC - Catalogue of Somatic Mutations in Cancer](https://cancer.sanger.ac.uk/cosmic) - [Sanger Institute - Tool - COSMIC](https://www.sanger.ac.uk/tool/cosmic/) *COSMIC, the "Catalogue Of Somatic Mutations In Cancer" is an expert-curated database encompassing the wide variety of somatic mutation mechanisms causing human cancer.*
 - [ENCODE project (Portal)](https://www.encodeproject.org/) or [Encyclopedia of DNA Elements](https://genome.ucsc.edu/ENCODE/) - [The Encyclopedia of DNA Elements (ENCODE) | NIH](https://www.genome.gov/Funded-Programs-Projects/ENCODE-Project-ENCyclopedia-Of-DNA-Elements) *The Encyclopedia of DNA Elements (ENCODE) is a public research project which aims to identify functional elements in the human genome.*
