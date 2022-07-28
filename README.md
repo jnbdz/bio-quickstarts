@@ -30,17 +30,21 @@ Biology (bioinformatic, biology, bio-hacking, etc) quickstarts.
 - Illumina based NGS methods and tools
 
 ## Biological databases
-- TCGA
-- COSMIC
-- ENCODE
-- NCBI
-- UCSC
-- EBI
-- HMP
-- cBioPortal
-- RefSeq
-- dbSNP
-- ClinVar
+- [TCGA](https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga) - *The Cancer Genome Atlas (TCGA), a landmark [cancer genomics](https://www.cancer.gov/about-nci/organization/ccg/cancer-genomics-overview) program, molecularly characterized over 20,000 primary cancer and matched normal samples spanning 33 cancer types. This joint effort between NCI and the National Human Genome Research Institute began in 2006, bringing together researchers from diverse disciplines and multiple institutions. Over the next dozen years, TCGA generated over 2.5 petabytes of genomic, epigenomic, transcriptomic, and proteomic data. The data, which has already led to improvements in our ability to diagnose, treat, and prevent cancer, will remain [publicly available](https://portal.gdc.cancer.gov/) for anyone in the research community to use.*
+- [COSMIC - Catalogue of Somatic Mutations in Cancer](https://cancer.sanger.ac.uk/cosmic) - [Sanger Institute - Tool - COSMIC](https://www.sanger.ac.uk/tool/cosmic/) *COSMIC, the "Catalogue Of Somatic Mutations In Cancer" is an expert-curated database encompassing the wide variety of somatic mutation mechanisms causing human cancer.*
+- [ENCODE project (Portal)](https://www.encodeproject.org/) or [Encyclopedia of DNA Elements](https://genome.ucsc.edu/ENCODE/) - [The Encyclopedia of DNA Elements (ENCODE) | NIH](https://www.genome.gov/Funded-Programs-Projects/ENCODE-Project-ENCyclopedia-Of-DNA-Elements) *The Encyclopedia of DNA Elements (ENCODE) is a public research project which aims to identify functional elements in the human genome.*
+- [NCBI](https://www.ncbi.nlm.nih.gov/) - *The National Center for Biotechnology Information advances science and health by providing access to biomedical and genomic information.*
+- [UCSC](http://genome.ucsc.edu/) - *It is an interactive website offering access to genome sequence data from a variety of vertebrate and invertebrate species and major model organisms, integrated with a large collection of aligned annotations. The Browser is a graphical viewer optimized to support fast interactive performance and is an open-source, web-based tool suite built on top of a MySQL database for rapid visualization, examination, and querying of the data at many levels. The Genome Browser Database, browsing tools, downloadable data files, and documentation can all be found on the UCSC Genome Bioinformatics website.*
+- [EBI](https://www.ebi.ac.uk/) - *One of the roles of the EMBL-EBI is to index and maintain biological data in a set of databases, including Ensembl (housing whole genome sequence data), UniProt (protein sequence and annotation database) and Protein Data Bank (protein and nucleic acid tertiary structure database). A variety of online services and tools is provided, such as Basic Local Alignment Search Tool (BLAST) or Clustal Omega sequence alignment tool, enabling further data analysis.*
+- [HMP](https://hmpdacc.org/) - *Important components of the HMP were culture-independent methods of microbial community characterization, such as metagenomics (which provides a broad genetic perspective on a single microbial community), as well as extensive whole genome sequencing (which provides a "deep" genetic perspective on certain aspects of a given microbial community, i.e. of individual bacterial species). The latter served as reference genomic sequences — 3000 such sequences of individual bacterial isolates are currently planned — for comparison purposes during subsequent metagenomic analysis. The project also financed deep sequencing of bacterial 16S rRNA sequences amplified by polymerase chain reaction from human subjects.*
+- [cBioPortal](https://www.cbioportal.org) - *It is a portal...*
+- [RefSeq](https://www.ncbi.nlm.nih.gov/refseq/) - *The Reference Sequence (RefSeq) database is an open access, annotated and curated collection of publicly available nucleotide sequences (DNA, RNA) and their protein products. RefSeq was first introduced in 2000. This database is built by National Center for Biotechnology Information (NCBI), and, unlike GenBank, provides only a single record for each natural biological molecule (i.e. DNA, RNA or protein) for major organisms ranging from viruses to bacteria to eukaryotes. For each model organism, RefSeq aims to provide separate and linked records for the genomic DNA, the gene transcripts, and the proteins arising from those transcripts. RefSeq is limited to major organisms for which sufficient data are available (121,461 distinct "named" organisms as of July 2022), while GenBank includes sequences for any organism submitted (approximately 504,000 formally described species).*
+- [dbSNP](https://www.ncbi.nlm.nih.gov/snp/) - *dbSNP contains human single nucleotide variations, microsatellites, and small-scale insertions and deletions along with publication, population frequency, molecular consequence, and genomic and RefSeq mapping information for both common variations and clinical mutations.*
+- [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/) - *ClinVar aggregates information about genomic variation and its relationship to human health.*
+
+### Other DBs
+- https://en.wikipedia.org/wiki/List_of_databases_for_oncogenomic_research
+- https://en.wikipedia.org/wiki/List_of_biological_databases
 
 ## Acronyms
 - *VIST:* variation, inheritance, selection and time (evolutionary principles).
