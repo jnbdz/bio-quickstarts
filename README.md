@@ -58,6 +58,8 @@ Biology (bioinformatic, biology, bio-hacking, etc) quickstarts.
 - [1kqf_opm.png](https://en.wikipedia.org/wiki/File:1kqf_opm.png)
 
 ## Resources
+- http://www.biohackathon.org/
+- http://togogenome.org/
 ### Tools
 - [bio.tools](https://bio.tools/) - Search engine for Bio tools.
 > The list of tools here are from job listings.
