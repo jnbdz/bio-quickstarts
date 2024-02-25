@@ -1,7 +1,10 @@
-<img src="assets/1kqf_opm.png" alt="Protein structure (3D)" style="width: 190px;" align="right">
+<img src="assets/1kqf_opm.png" alt="Protein structure (3D)" style="width: 380px;" align="right">
 
-# bio-quickstarts
+# Bio | Quickstarts
 Biology (bioinformatic, biology, bio-hacking, etc) quickstarts.
+
+## Terms
+- 
 
 ## Degrees
 - Ph.D. in Bioinformatics
