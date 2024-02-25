@@ -1,4 +1,4 @@
-<img src="assets/1kqf_opm.png" alt="Protein structure (3D)" style="width: 380px;" align="right">
+<img src="assets/bio.webp" alt="Bio image" style="width: 380px;" align="right">
 
 # Bio | Quickstarts
 Biology (bioinformatic, biology, bio-hacking, etc) quickstarts.
