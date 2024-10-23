@@ -10,7 +10,7 @@ Isolating stem cells from umbilical cord tissue involves several critical steps 
 <table>
  <tr>
   <th>Step</th>
-  <th>Description<th>
+  <th>Description</th>
   <th>Equipment Needed</th>
  </tr>
  <tr>
