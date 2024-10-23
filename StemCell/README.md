@@ -85,6 +85,7 @@ Isolating stem cells from umbilical cord tissue involves several critical steps 
   <tr>
    <td>10. Cryopreservation (Optional)</td>
    <td>Cells are preserved for future use by controlled freezing.</td>
+   <td>
 - Cryoprotective agents (e.g., DMSO)
 - Controlled-rate freezer
 - Liquid nitrogen storage tanks
